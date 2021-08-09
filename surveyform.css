@@ -1,0 +1,33 @@
+* {
+    font-size: 19px;
+}
+
+body {
+    background-image: url("/992f16af05270d48faf4578ac9fe73bb.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    padding: 2%;
+}
+
+.form-container {
+    border-radius: 20px;
+    border-style: groove;
+    background-color: rgba(184, 180, 180, 0.6);
+    position: absolute;
+    left: 13.5%;
+    right: 13.5%;
+    width: 75%;
+    height: auto;
+    padding: 1%;
+}
+
+table {
+    max-width: 600px;
+}
+
+.formli {
+    font-size: 20px;
+    position: relative;
+    width: 600px;
+    left: 10px;
+}
